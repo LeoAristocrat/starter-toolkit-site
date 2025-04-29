@@ -1,4 +1,4 @@
-title: 🚀 Starter Toolkit for Digital Freedom
+🚀Ultimate Starter Toolkit for Digital Freedom
 ---
 
 # Welcome!
