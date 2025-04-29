@@ -1,5 +1,3 @@
----
-layout: default
 title: 🚀 Starter Toolkit for Digital Freedom
 ---
 
